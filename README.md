@@ -4,7 +4,7 @@ Passionate about software developer, always a student. My goal is to work with t
 
 - 🔭 I’m currently working on some projects to improve my skills.
 - 🌱 I’m currently learning Python, Web Development and C.
-- - 📫 How to reach me: Linkedln(https://www.linkedin.com/in/oguzhan-kurtkan-06432634-/) or e-mail (oguzhankurtkan@gmail.com)
+- 📫 How to reach me: Linkedln(https://www.linkedin.com/in/oguzhan-kurtkan-06432634-/) or e-mail (oguzhankurtkan@gmail.com)
 
 
 <!--
